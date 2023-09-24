@@ -1,1 +1,4 @@
-# arena_battle is c++ turn-based game made when I was studying my first year of my college days.
+# Arena Battle
+- text-based game created when in my first year of college while learning C++.
+
+![logo](https://github.com/ezmichaely/arena_battle/blob/main/ARENA%20BATTLE%20(sequence).png?raw=true)
